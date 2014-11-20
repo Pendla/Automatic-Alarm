@@ -1,4 +1,4 @@
-package pendla.chalmers.com.glock;
+package com.pendla.googlecalendaralarm;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
